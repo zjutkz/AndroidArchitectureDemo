@@ -1,1 +1,1 @@
-include ':mvc'
+include ':mvc', ':mvp', ':mvvm', ':mvpdatabinding'

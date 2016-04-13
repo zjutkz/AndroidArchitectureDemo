@@ -10,6 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/mvc" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvpdatabinding" />
+            <option value="$PROJECT_DIR$/mvvm" />
           </set>
         </option>
       </GradleProjectSettings>
