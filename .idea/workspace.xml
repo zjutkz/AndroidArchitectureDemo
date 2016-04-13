@@ -7,43 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d58529d-cb72-4fbb-9925-d027a1020859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvc/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mvc/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mvp/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mvpdatabinding/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvvm/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mvvm/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvc/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/mvc/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/mvp/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/mvpdatabinding/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/adapters_1_0_rc3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/adapters_1_0_rc3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvc/build.gradle" afterPath="$PROJECT_DIR$/mvc/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/build.gradle" afterPath="$PROJECT_DIR$/mvp/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/build.gradle" afterPath="$PROJECT_DIR$/mvpdatabinding/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvvm/build.gradle" afterPath="$PROJECT_DIR$/mvvm/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_0_rc3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_1_0_rc3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/mvp/src/main/res/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/mvpdatabinding/src/main/res/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvvm/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/mvvm/src/main/res/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvc/mvc.iml" afterPath="$PROJECT_DIR$/mvc/mvc.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/mvp.iml" afterPath="$PROJECT_DIR$/mvp/mvp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/mvp_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mvp_2_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/mvpdatabinding.iml" afterPath="$PROJECT_DIR$/mvpdatabinding/mvpdatabinding.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvvm/mvvm.iml" afterPath="$PROJECT_DIR$/mvvm/mvvm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rxandroid_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rxandroid_1_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvc/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mvc/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mvp/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvp/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/mvp/src/main/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mvpdatabinding/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvpdatabinding/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/mvpdatabinding/src/main/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvvm/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mvvm/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvvm/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/mvvm/src/main/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="AndroidArchitectureDemo.iws" />
     <ignored path=".idea/workspace.xml" />
