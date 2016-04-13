@@ -1,0 +1,35 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable name="contributor" type="zjutkz.com.mvvm.viewmodel.Contributor"/>
+    </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/container"
+        android:orientation="vertical"
+        android:fitsSystemWindows="true">
+
+        <Button
+            android:id="@+id/get"
+            android:text="get"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="get"/>
+
+        <Button
+            android:id="@+id/change"
+            android:text="change"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="change"/>
+        
+        <TextView
+            android:id="@+id/top_contributor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="@{contributor.login}"/>
+    </LinearLayout>
+
+</layout>
