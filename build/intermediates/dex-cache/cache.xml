@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_9b717991554b215c3ae71104a4108611f7bde61f.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.1_479f2244d893ee62ef93ff1111c5a28bae90f558.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/retrofit-2.0.1_a4a02740d7363d2abbd9a8be380d98a9275d108a.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby/mvp-common/2.0.1/d75c9c5577143f3cf3fd63f61526a551f910b56f/mvp-common-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d75c9c5577143f3cf3fd63f61526a551f910b56f">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/mvp-common-2.0.1_d6c6ddf662edd671bdf21c036b2a1f3fa47c8133.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_69f1810eba428e9a41c3e3984a43e7f12e9d45d4.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_8a2d31a62a4961bd23f44cb90eada5044de21a8a.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/okhttp-3.2.0_e5cc85edc23717eae96190fb68c5835b03689e22.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_6cbc484b0470d87d36cf8a61122f35cc51a7c652.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/mvp/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d5f68a8fdd8283ea42b20259ae4adad9cbe5e94">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-mvp-2.0.1_ff12b0b9ae49199445c622014f32e301f694ebd7.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/okio-1.6.0_5d696ec4a69c8b1940b94cbb3e82833a276b0eff.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_0dfda47e653a26bcd04eb0b5422f3c1c3ca4eaf3.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_4c172290acbb576b9d2b2f4c5ba566c99614268f.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_a341098150a8876f569002a7c7ca2c0c29c37daf.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_9341226acd5f440cee73206f2e58ac3e33e8c98e.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_f63c63cad138a74ab368ea2a14e7004254c9a2c2.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/gson-2.6.1_7c18431bc346ef225717762ab2fe5cc2d3b2c654.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_26c474f6b739743127391585ca98701e502ff30b.jar" />
+    </item>
+    <item
+        jar="/Users/kangzhe/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/kangzhe/AndroidArchitectureDemo/mvp/build/intermediates/pre-dexed/debug/rxjava-1.1.1_5bb0fffba8c11640a659fea737385c0aba4599ac.jar" />
+    </item>
+
+</items>
